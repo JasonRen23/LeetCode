@@ -1,7 +1,8 @@
-Ë¢ÌâË³ĞòÈçÏÂ
-ÏßĞÔ±í
+åˆ·é¢˜é¡ºåºå¦‚ä¸‹
 
-    Êı×é
+çº¿æ€§è¡¨
+
+    æ•°ç»„
         Remove Duplicates from Sorted Array
         Remove Duplicates from Sorted Array II
         Longest Consecutive Sequence
@@ -29,7 +30,7 @@
         Product of Array Except Self
         Game of Life
         Increasing Triplet Subsequence
-    µ¥Á´±í
+    å•é“¾è¡¨
         Reverse Linked List
         Odd Even Linked List
         Add Two Numbers
@@ -48,7 +49,7 @@
         LRU Cache
         Palindrome Linked List
 
-×Ö·û´®
+å­—ç¬¦ä¸²
 
     Valid Palindrome
     Implement strStr()
@@ -69,21 +70,21 @@
     Isomorphic Strings
     Word Pattern
 
-Õ»ºÍ¶ÓÁĞ
+æ ˆå’Œé˜Ÿåˆ—
 
-    Õ»
+    æ ˆ
         Min Stack
         Valid Parentheses
         Longest Valid Parentheses
         Largest Rectangle in Histogram
         Evaluate Reverse Polish Notation
         Implement Stack using Queues
-    ¶ÓÁĞ
+    é˜Ÿåˆ—
         Implement Queue using Stacks
 
-¶ş²æÊ÷
+äºŒå‰æ ‘
 
-    ¶ş²æÊ÷µÄ±éÀú
+    äºŒå‰æ ‘çš„éå†
         Binary Tree Preorder Traversal
         Binary Tree Inorder Traversal
         Binary Tree Postorder Traversal
@@ -99,10 +100,10 @@
         Balanced Binary Tree
         Flatten Binary Tree to Linked List
         Populating Next Right Pointers in Each Node II
-    ¶ş²æÊ÷µÄ¹¹½¨
+    äºŒå‰æ ‘çš„æ„å»º
         Construct Binary Tree from Preorder and Inorder Traversal
         Construct Binary Tree from Inorder and Postorder Traversal
-    ¶ş²æ²éÕÒÊ÷
+    äºŒå‰æŸ¥æ‰¾æ ‘
         Unique Binary Search Trees
         Unique Binary Search Trees II
         Validate Binary Search Tree
@@ -110,7 +111,7 @@
         Convert Sorted List to Binary Search Tree
         LCA of BST
         Kth Smallest Element in a BST
-    ¶ş²æÊ÷µÄµİ¹é
+    äºŒå‰æ ‘çš„é€’å½’
         Minimum Depth of Binary Tree
         Maximum Depth of Binary Tree
         Path Sum
@@ -119,32 +120,32 @@
         Populating Next Right Pointers in Each Node
         Sum Root to Leaf Numbers
         LCA of Binary Tree
-    Ïß¶ÎÊ÷
+    çº¿æ®µæ ‘
         Range Sum Query - Mutable
 
-ÅÅĞò
+æ’åº
 
-    ²åÈëÅÅĞò
+    æ’å…¥æ’åº
         Insertion Sort List
-    ¹é²¢ÅÅĞò
+    å½’å¹¶æ’åº
         Merge Two Sorted Arrays
         Merge Two Sorted Lists
         Merge k Sorted Lists
         Sort List
-    ¿ìËÙÅÅĞò
+    å¿«é€Ÿæ’åº
         Sort Colors
         Kth Largest Element in an Array
-    Í°ÅÅĞò
+    æ¡¶æ’åº
         First Missing Positive
-    ¼ÆÊıÅÅĞò
+    è®¡æ•°æ’åº
         H-Index
-    »ùÊıÅÅĞò
+    åŸºæ•°æ’åº
         Maximum Gap
-    ÆäËû
+    å…¶ä»–
         Largest Number
-    Ğ¡½á
+    å°ç»“
 
-²éÕÒ
+æŸ¥æ‰¾
 
     Search for a Range
     Search Insert Position
@@ -157,7 +158,7 @@
     Median of Two Sorted Arrays
     H-Index II
 
-±©Á¦Ã¶¾Ù·¨
+æš´åŠ›æšä¸¾æ³•
 
     Subsets
     Subsets II
@@ -166,14 +167,14 @@
     Combinations
     Letter Combinations of a Phone Number
 
-¹ã¶ÈÓÅÏÈËÑË÷
+å¹¿åº¦ä¼˜å…ˆæœç´¢
 
     Word Ladder
     Word Ladder II
     Surrounded Regions
-    ×Ü½á
+    æ€»ç»“
 
-Éî¶ÈÓÅÏÈËÑË÷
+æ·±åº¦ä¼˜å…ˆæœç´¢
 
     Additive Number
     Palindrome Partitioning
@@ -188,14 +189,14 @@
     Generate Parentheses
     Sudoku Solver
     Word Search
-    ×Ü½á
+    æ€»ç»“
 
-·ÖÖÎ·¨
+åˆ†æ²»æ³•
 
     Pow(x,n)
     Sqrt(x)
 
-Ì°ĞÄ·¨
+è´ªå¿ƒæ³•
 
     Jump Game
     Jump Game II
@@ -205,7 +206,7 @@
     Container With Most Water
     Patching Array
 
-¶¯Ì¬¹æ»®
+åŠ¨æ€è§„åˆ’
 
     Triangle
     Maximum Subarray
@@ -231,11 +232,11 @@
     Range Sum Query - Immutable
     Range Sum Query 2D - Immutable
 
-Í¼
+å›¾
 
     Clone Graph
 
-Î»²Ù×÷
+ä½æ“ä½œ
 
     Reverse Bits
     Repeated DNA Sequences
@@ -251,7 +252,7 @@
     Power of Three
     Rectangle Area
 
-ÊıÂÛ
+æ•°è®º
 
     Happy Number
     Ugly Number
@@ -261,7 +262,7 @@
     Factorial Trailing Zeroes
     Nim Game
 
-Ä£Äâ
+æ¨¡æ‹Ÿ
 
     Reverse Integer
     Palindrome Number
@@ -279,4 +280,4 @@
     Text Justification
     Max Points on a Line
 
-Java¼¯ºÏ¾­Ñé×Ü½á
+Javaé›†åˆç»éªŒæ€»ç»“
