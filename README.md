@@ -1,7 +1,5 @@
 # LeetCode solutions in Java
 
-------
-
 ## Linear List
 
 ### Array
