@@ -54,7 +54,7 @@
 - LRU Cache
 - Palindrome Linked List
 
-String
+### String
 
 - Valid Palindrome
 - Implement strStr()
@@ -187,7 +187,7 @@ String
 - Median of Two Sorted Arrays
 - H-Index II
 
-Exhaustive Attack 
+## Exhaustive Attack 
 
 - Subsets
 - Subsets II
